@@ -1,0 +1,17 @@
+C:\Users\dsooraj\source\repos\EmpApp\EmployeeAppRepository\bin\Debug\net6.0\EmployeeAppRepository.deps.json
+C:\Users\dsooraj\source\repos\EmpApp\EmployeeAppRepository\bin\Debug\net6.0\EmployeeAppRepository.runtimeconfig.json
+C:\Users\dsooraj\source\repos\EmpApp\EmployeeAppRepository\bin\Debug\net6.0\EmployeeAppRepository.dll
+C:\Users\dsooraj\source\repos\EmpApp\EmployeeAppRepository\bin\Debug\net6.0\EmployeeAppRepository.pdb
+C:\Users\dsooraj\source\repos\EmpApp\EmployeeAppRepository\bin\Debug\net6.0\EmployeeAppModels.dll
+C:\Users\dsooraj\source\repos\EmpApp\EmployeeAppRepository\bin\Debug\net6.0\EmployeeAppModels.pdb
+C:\Users\dsooraj\source\repos\EmpApp\EmployeeAppRepository\obj\Debug\net6.0\EmployeeAppRepository.csproj.AssemblyReference.cache
+C:\Users\dsooraj\source\repos\EmpApp\EmployeeAppRepository\obj\Debug\net6.0\EmployeeAppRepository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dsooraj\source\repos\EmpApp\EmployeeAppRepository\obj\Debug\net6.0\EmployeeAppRepository.AssemblyInfoInputs.cache
+C:\Users\dsooraj\source\repos\EmpApp\EmployeeAppRepository\obj\Debug\net6.0\EmployeeAppRepository.AssemblyInfo.cs
+C:\Users\dsooraj\source\repos\EmpApp\EmployeeAppRepository\obj\Debug\net6.0\EmployeeAppRepository.csproj.CoreCompileInputs.cache
+C:\Users\dsooraj\source\repos\EmpApp\EmployeeAppRepository\obj\Debug\net6.0\EmployeeAppRepository.csproj.CopyComplete
+C:\Users\dsooraj\source\repos\EmpApp\EmployeeAppRepository\obj\Debug\net6.0\EmployeeAppRepository.dll
+C:\Users\dsooraj\source\repos\EmpApp\EmployeeAppRepository\obj\Debug\net6.0\refint\EmployeeAppRepository.dll
+C:\Users\dsooraj\source\repos\EmpApp\EmployeeAppRepository\obj\Debug\net6.0\EmployeeAppRepository.pdb
+C:\Users\dsooraj\source\repos\EmpApp\EmployeeAppRepository\obj\Debug\net6.0\EmployeeAppRepository.genruntimeconfig.cache
+C:\Users\dsooraj\source\repos\EmpApp\EmployeeAppRepository\obj\Debug\net6.0\ref\EmployeeAppRepository.dll

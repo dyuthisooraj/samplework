@@ -1,0 +1,70 @@
+﻿
+
+
+body {
+    
+}
+
+.logincontainer {
+    position: absolute;
+    left: 35%;
+    top: 35%;
+    background: linear-gradient(90deg, #aea4e3, #d3ffe8);
+    border-radius: 0 20px 0 20px;
+    /*border-radius: 30px;*/
+}
+
+.wrapper {
+    padding: 25px;
+    width: 500px;
+}
+
+.form-center {
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    padding: 25px;
+}
+
+input {
+    font-size: 18px;
+    padding: 10px 10px 10px 5px;
+    display: block;
+    width: 300px;
+    border: none;
+}
+
+    input:focus {
+        background-color: HighlightText;
+        outline: none;
+    }
+
+/* LABEL ======================================= */
+label {
+    color: #999;
+    font-size: 18px;
+    font-weight: normal;
+    position: absolute;
+    pointer-events: none;
+    left: 5px;
+    top: 10px;
+    transition: 0.2s ease all;
+    -moz-transition: 0.2s ease all;
+    -webkit-transition: 0.2s ease all;
+}
+
+/* active state */
+input:focus ~ label, input:valid ~ label {
+    top: -10px;
+    font-size: 14px;
+    color: #5264AE;
+}
+
+#ip2 {
+    border-radius: 25px;
+    border: 2px solid #609;
+    padding: 20px;
+    background: linear-gradient(90deg, #F0CFF5, #d3ffe8);
+    width: 200px;
+    height: 15px;
+}

@@ -1,0 +1,110 @@
+﻿body {
+
+   
+}
+.addcontainer {
+    position: absolute;
+    left: 35%;
+    top: 35%;
+    /*background: linear-gradient(90deg, #F0CFF5, #d3ffe8);*/
+    background: linear-gradient(90deg, #FFDFD3, #FEECD6);
+    border-radius: 0 20px 0 20px;
+    /*border-radius: 30px;*/
+    text-align: center;
+}
+
+.wrapper {
+    padding: 25px;
+    height: max-content;
+    width: 500px;
+    
+    
+}
+
+.form-center {
+    display: flex;
+    margin-top: 5px;
+    margin-bottom: -25px;
+    justify-content: space-between;
+    text-align: center;
+    padding-bottom:20px;
+    padding-top:35px;
+}
+
+input {
+    font-size: 18px;
+    padding: 10px 10px 10px 5px;
+    display: block;
+    width: 300px;
+    border: none;
+}
+
+    input:focus {
+        background-color: #FEECD6;
+        outline: none;
+    }
+
+/* LABEL ======================================= */
+/*label {
+    color: #999;
+    font-size: 18px;
+    font-weight: normal;
+    position: absolute;
+    pointer-events: none;
+    left: 5px;
+    top: 10px;
+    transition: 0.2s ease all;
+    -moz-transition: 0.2s ease all;
+    -webkit-transition: 0.2s ease all;
+}*/
+
+/* active state */
+/*input:focus ~ label, input:valid ~ label {
+    top: -10px;
+    font-size: 14px;
+    color: #5264AE;
+}*/
+
+#ip2 {
+    border-radius: 25px;
+    border: 2px solid #E9B5B4;
+    padding: 20px;
+    /*background: linear-gradient(90deg, #F0CFF5, #d3ffe8);*/
+    background: linear-gradient(90deg, #FFDFD3, #FEECD6);
+    width: 200px;
+    height: 15px;
+}
+
+#ip1 {
+    border-radius: 25px;
+    border: 2px solid #E9B5B4;
+    padding: 20px;
+    /*background: linear-gradient(90deg, #F0CFF5, #d3ffe8);*/
+    background: linear-gradient(90deg, #FFDFD3, #FEECD6);
+    width: 200px;
+    height: 15px;
+}
+
+.button {
+    background-color: #F6C9BC;
+    border-radius: 25px;
+    border: none;
+    color: white;
+    padding: 10px 10px 10px 5px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+    transition-duration: 0.4s;
+    width: 120px;
+    position: absolute;
+    margin-left: -80px;
+    left: 50%;
+    bottom: 30px;
+}
+
+    .button:hover {
+        background-color: #F2AFA3;
+        color: white;
+    }

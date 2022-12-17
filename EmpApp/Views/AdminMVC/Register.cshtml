@@ -1,0 +1,43 @@
+﻿@model EmpApp.Models.UserLoginMVC
+
+@{
+    ViewData["Title"] = "Register";
+}
+<link rel="stylesheet" href="~/css/reg.css" />
+
+<div class="addcontainer">
+    <div class="wrapper">
+
+
+
+<h1 style="color: dimgrey">Register</h1>
+
+
+    
+        <form asp-action="Register">
+            
+           
+            <div class="form-center">
+                        <label asp-for="UserName" class="label"></label>
+                    <input asp-for="UserName" class="input" style="width: 200px" placeholder="UserName" id="ip2"/>
+                        <span asp-validation-for="UserName" class="highlight"></span>
+            </div>
+                <div class="form-center">
+                    <label asp-for="Password" class="label"></label>
+                    <input asp-for="Password" class="input" style="width: 200px" placeholder="Password" id="ip2"/>
+                    <span asp-validation-for="Password" class="text-danger"></span>
+            </div>
+                <div class="form-center">
+                <br />
+                <input type="submit" value="Register" class="button" />
+            </div>
+            
+        </form>
+   
+</div>
+</div>
+
+<div>
+    <a asp-action="Register">Back to List</a>
+</div>
+

@@ -1,0 +1,28 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+    /*margin-bottom: 60px;*/
+    /*background-image: linear-gradient(135deg, #FAB2FF 10%, #DCF7F7 100%);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    font-family: "Open Sans", sans-serif;
+    color: #333333;*/
+    /*background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url("https://as2.ftcdn.net/v2/jpg/04/56/46/93/1000_F_456469331_Ant6Y8GFjjuPeaXLvuJX0Uyx1BmpnMcX.jpg");
+    overflow: hidden;
+}*/
